@@ -8,12 +8,12 @@ import java.util.*;
 //Added a date of vaccination, more queries, and identity column.
 
 
-public class Main {
+public class DogDB {
     
-    static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";        //Configure the driver needed
+    static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";        //Configure the driver needed
     static final String DB_CONNECTION_URL = "jdbc:mysql://localhost:3306/vet";     //Connection string – where's the database?
     static final String USER = "clara";   //TODO replace with your username
-    static final String PASSWORD = "password";   //TODO replace with your password
+    static final String PASSWORD = "clara";   //TODO replace with your password
 
 
     
