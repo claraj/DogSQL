@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29d4f778-0356-4cc2-a724-400fe46f564a" name="Default" comment="" />
+    <list default="true" id="29d4f778-0356-4cc2-a724-400fe46f564a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/company/DogDB.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/company/DogDB.java" afterPath="$PROJECT_DIR$/src/main/java/com/company/DogDB.java" />
+    </list>
     <ignored path="DogSQL.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,7 +27,7 @@
     <favorites_list name="DogSQL" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -36,31 +41,34 @@
       <file leaf-file-name="DogDB.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/DogDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="24" column="8" selection-start-line="21" selection-start-column="4" selection-end-line="24" selection-end-column="8" />
+            <state relative-caret-position="2941">
+              <caret line="175" column="16" selection-start-line="175" selection-start-column="16" selection-end-line="175" selection-end-column="16" />
               <folding>
-                <marker date="1475710096218" expanded="true" signature="1847:1955" ph="CREATE TABLE... IF" />
-                <marker date="1475710096218" expanded="true" signature="2553:2594" ph="INSERT INTO Dog... " />
-                <marker date="1475710096218" expanded="true" signature="3204:3245" ph="INSERT INTO Dog... " />
-                <marker date="1475710096218" expanded="true" signature="4053:4070" ph="SELECT * FRO... Dog" />
-                <marker date="1475710096218" expanded="true" signature="5272:5318" ph="SELECT * FRO... DOG" />
-                <marker date="1475710096218" expanded="true" signature="6399:6442" ph="SELECT name dog" />
-                <marker date="1475710096218" expanded="true" signature="6829:6880" ph="SELECT name,... dog" />
-                <marker date="1475710096218" expanded="true" signature="7360:7404" ph="UPDATE Dog S... " />
-                <marker date="1475710096218" expanded="true" signature="8233:8265" ph="SELECT * FRO... Dog" />
-                <marker date="1475710096218" expanded="true" signature="9193:9231" ph="SELECT * FRO... Dog" />
-                <marker date="1475710096218" expanded="true" signature="9684:9719" ph="SELECT AVG(a... dog" />
-                <marker date="1475710096218" expanded="true" signature="10292:10352" ph="SELECT AVG(a... dog" />
-                <marker date="1475710096218" expanded="true" signature="10708:10761" ph="SELECT MAX(a... dog" />
-                <marker date="1475710096218" expanded="true" signature="11147:11182" ph="SELECT COUNT... dog" />
-                <marker date="1475710096218" expanded="true" signature="11532:11568" ph="SELECT SUM(w... dog" />
-                <marker date="1475710096218" expanded="true" signature="12053:12067" ph="DROP TABLE d... " />
+                <marker date="1478736245727" expanded="true" signature="1447:1555" ph="CREATE TABLE... IF" />
+                <marker date="1478736245727" expanded="true" signature="1774:1815" ph="INSERT INTO Dog... " />
+                <marker date="1478736245727" expanded="true" signature="4509:4526" ph="SELECT * FRO... Dog" />
+                <marker date="1478736245727" expanded="true" signature="6272:6318" ph="SELECT * FRO... DOG" />
+                <marker date="1478736245727" expanded="true" signature="7678:7723" ph="SELECT name dog" />
+                <marker date="1478736245727" expanded="true" signature="8130:8181" ph="SELECT name,... dog" />
+                <marker date="1478736245727" expanded="true" signature="8698:8730" ph="SELECT * FRO... Dog" />
+                <marker date="1478736245727" expanded="true" signature="9736:9774" ph="SELECT * FRO... Dog" />
+                <marker date="1478736245727" expanded="true" signature="10942:10986" ph="UPDATE Dog S... " />
+                <marker date="1478736245727" expanded="true" signature="11154:11171" ph="SELECT * FRO... Dog" />
+                <marker date="1478736245727" expanded="true" signature="12144:12179" ph="SELECT AVG(a... dog" />
+                <marker date="1478736245727" expanded="true" signature="12888:12948" ph="SELECT AVG(a... dog" />
+                <marker date="1478736245727" expanded="true" signature="13374:13427" ph="SELECT MAX(a... dog" />
+                <marker date="1478736245727" expanded="true" signature="13949:13985" ph="SELECT COUNT... dog" />
+                <marker date="1478736245727" expanded="true" signature="14446:14482" ph="SELECT SUM(w... dog" />
+                <marker date="1478736245727" expanded="true" signature="15340:15354" ph="DROP TABLE d... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -89,12 +97,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="582" />
-    <option name="y" value="311" />
-    <option name="width" value="1059" />
+    <option name="x" value="10" />
+    <option name="y" value="9" />
+    <option name="width" value="1176" />
     <option name="height" value="843" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -124,59 +132,41 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DogSQL" />
+              <option name="myItemId" value="DogSQL-2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DogSQL" />
+              <option name="myItemId" value="DogSQL-2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DogSQL" />
+              <option name="myItemId" value="DogSQL-2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DogSQL" />
+              <option name="myItemId" value="DogSQL-2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DogSQL" />
+              <option name="myItemId" value="DogSQL-2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="target" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DogSQL" />
+              <option name="myItemId" value="DogSQL-2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DogSQL" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DogSQL" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DogSQL" />
+              <option name="myItemId" value="DogSQL-2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -454,6 +444,7 @@
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
@@ -619,6 +610,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -654,41 +651,42 @@
       <option name="presentableId" value="Default" />
       <updated>1475710029871</updated>
       <workItem from="1475710030978" duration="716000" />
+      <workItem from="1478734124856" duration="2160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="716000" />
+    <option name="totallyTimeSpent" value="2876000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="582" y="311" width="1059" height="843" extended-state="0" />
+    <frame x="10" y="9" width="1176" height="843" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12112676" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52112675" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25125125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1859155" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52112675" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -721,25 +719,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/DogDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="24" column="8" selection-start-line="21" selection-start-column="4" selection-end-line="24" selection-end-column="8" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1475710096218" expanded="true" signature="1847:1955" ph="CREATE TABLE... IF" />
-            <marker date="1475710096218" expanded="true" signature="2553:2594" ph="INSERT INTO Dog... " />
-            <marker date="1475710096218" expanded="true" signature="3204:3245" ph="INSERT INTO Dog... " />
-            <marker date="1475710096218" expanded="true" signature="4053:4070" ph="SELECT * FRO... Dog" />
-            <marker date="1475710096218" expanded="true" signature="5272:5318" ph="SELECT * FRO... DOG" />
-            <marker date="1475710096218" expanded="true" signature="6399:6442" ph="SELECT name dog" />
-            <marker date="1475710096218" expanded="true" signature="6829:6880" ph="SELECT name,... dog" />
-            <marker date="1475710096218" expanded="true" signature="7360:7404" ph="UPDATE Dog S... " />
-            <marker date="1475710096218" expanded="true" signature="8233:8265" ph="SELECT * FRO... Dog" />
-            <marker date="1475710096218" expanded="true" signature="9193:9231" ph="SELECT * FRO... Dog" />
-            <marker date="1475710096218" expanded="true" signature="9684:9719" ph="SELECT AVG(a... dog" />
-            <marker date="1475710096218" expanded="true" signature="10292:10352" ph="SELECT AVG(a... dog" />
-            <marker date="1475710096218" expanded="true" signature="10708:10761" ph="SELECT MAX(a... dog" />
-            <marker date="1475710096218" expanded="true" signature="11147:11182" ph="SELECT COUNT... dog" />
-            <marker date="1475710096218" expanded="true" signature="11532:11568" ph="SELECT SUM(w... dog" />
-            <marker date="1475710096218" expanded="true" signature="12053:12067" ph="DROP TABLE d... " />
+            <marker date="1478736245727" expanded="true" signature="1447:1555" ph="CREATE TABLE... IF" />
+            <marker date="1478736245727" expanded="true" signature="1774:1815" ph="INSERT INTO Dog... " />
+            <marker date="1478736245727" expanded="true" signature="4509:4526" ph="SELECT * FRO... Dog" />
+            <marker date="1478736245727" expanded="true" signature="6272:6318" ph="SELECT * FRO... DOG" />
+            <marker date="1478736245727" expanded="true" signature="7678:7723" ph="SELECT name dog" />
+            <marker date="1478736245727" expanded="true" signature="8130:8181" ph="SELECT name,... dog" />
+            <marker date="1478736245727" expanded="true" signature="8698:8730" ph="SELECT * FRO... Dog" />
+            <marker date="1478736245727" expanded="true" signature="9736:9774" ph="SELECT * FRO... Dog" />
+            <marker date="1478736245727" expanded="true" signature="10942:10986" ph="UPDATE Dog S... " />
+            <marker date="1478736245727" expanded="true" signature="11154:11171" ph="SELECT * FRO... Dog" />
+            <marker date="1478736245727" expanded="true" signature="12144:12179" ph="SELECT AVG(a... dog" />
+            <marker date="1478736245727" expanded="true" signature="12888:12948" ph="SELECT AVG(a... dog" />
+            <marker date="1478736245727" expanded="true" signature="13374:13427" ph="SELECT MAX(a... dog" />
+            <marker date="1478736245727" expanded="true" signature="13949:13985" ph="SELECT COUNT... dog" />
+            <marker date="1478736245727" expanded="true" signature="14446:14482" ph="SELECT SUM(w... dog" />
+            <marker date="1478736245727" expanded="true" signature="15340:15354" ph="DROP TABLE d... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/DogDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2941">
+          <caret line="175" column="16" selection-start-line="175" selection-start-column="16" selection-end-line="175" selection-end-column="16" />
+          <folding>
+            <marker date="1478736245727" expanded="true" signature="1447:1555" ph="CREATE TABLE... IF" />
+            <marker date="1478736245727" expanded="true" signature="1774:1815" ph="INSERT INTO Dog... " />
+            <marker date="1478736245727" expanded="true" signature="4509:4526" ph="SELECT * FRO... Dog" />
+            <marker date="1478736245727" expanded="true" signature="6272:6318" ph="SELECT * FRO... DOG" />
+            <marker date="1478736245727" expanded="true" signature="7678:7723" ph="SELECT name dog" />
+            <marker date="1478736245727" expanded="true" signature="8130:8181" ph="SELECT name,... dog" />
+            <marker date="1478736245727" expanded="true" signature="8698:8730" ph="SELECT * FRO... Dog" />
+            <marker date="1478736245727" expanded="true" signature="9736:9774" ph="SELECT * FRO... Dog" />
+            <marker date="1478736245727" expanded="true" signature="10942:10986" ph="UPDATE Dog S... " />
+            <marker date="1478736245727" expanded="true" signature="11154:11171" ph="SELECT * FRO... Dog" />
+            <marker date="1478736245727" expanded="true" signature="12144:12179" ph="SELECT AVG(a... dog" />
+            <marker date="1478736245727" expanded="true" signature="12888:12948" ph="SELECT AVG(a... dog" />
+            <marker date="1478736245727" expanded="true" signature="13374:13427" ph="SELECT MAX(a... dog" />
+            <marker date="1478736245727" expanded="true" signature="13949:13985" ph="SELECT COUNT... dog" />
+            <marker date="1478736245727" expanded="true" signature="14446:14482" ph="SELECT SUM(w... dog" />
+            <marker date="1478736245727" expanded="true" signature="15340:15354" ph="DROP TABLE d... " />
           </folding>
         </state>
       </provider>
