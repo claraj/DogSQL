@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29d4f778-0356-4cc2-a724-400fe46f564a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/company/DogDB.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/company/DogDB.java" afterPath="$PROJECT_DIR$/src/main/java/com/company/DogDB.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DogSQL.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,9 +21,6 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="DogSQL" />
@@ -34,7 +30,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="555">
+            <state vertical-scroll-proportion="0.0">
               <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
               <folding />
             </state>
@@ -44,26 +40,26 @@
       <file leaf-file-name="DogDB.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/DogDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3716216" vertical-offset="435" max-vertical-offset="5835">
-              <caret line="40" column="153" selection-start-line="40" selection-start-column="153" selection-end-line="40" selection-end-column="153" />
+            <state vertical-scroll-proportion="0.57954544">
+              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1478789821000" expanded="true" signature="1421:1537" placeholder="CREATE TABLE..IF..." />
-                <marker date="1478789821000" expanded="true" signature="1756:1797" placeholder="INSERT INTO ..." />
-                <marker date="1478789821000" expanded="true" signature="4491:4508" placeholder="SELECT * FRO..Dog..." />
-                <marker date="1478789821000" expanded="true" signature="6195:6241" placeholder="SELECT * FRO..DOG..." />
-                <marker date="1478789821000" expanded="true" signature="7569:7614" placeholder="SELECT name ..dog..." />
-                <marker date="1478789821000" expanded="true" signature="8021:8072" placeholder="SELECT name,..dog..." />
-                <marker date="1478789821000" expanded="true" signature="8589:8621" placeholder="SELECT * FRO..Dog..." />
-                <marker date="1478789821000" expanded="true" signature="9627:9665" placeholder="SELECT * FRO..Dog..." />
-                <marker date="1478789821000" expanded="true" signature="10933:10977" placeholder="UPDATE Dog S..." />
-                <marker date="1478789821000" expanded="true" signature="11145:11162" placeholder="SELECT * FRO..Dog..." />
-                <marker date="1478789821000" expanded="true" signature="12135:12170" placeholder="SELECT AVG(a..dog..." />
-                <marker date="1478789821000" expanded="true" signature="12879:12939" placeholder="SELECT AVG(a..dog..." />
-                <marker date="1478789821000" expanded="true" signature="13365:13418" placeholder="SELECT MAX(a..dog..." />
-                <marker date="1478789821000" expanded="true" signature="13940:13976" placeholder="SELECT COUNT..dog..." />
-                <marker date="1478789821000" expanded="true" signature="14437:14473" placeholder="SELECT SUM(w..dog..." />
-                <marker date="1478789821000" expanded="true" signature="15645:15659" placeholder="DROP TABLE d..." />
+                <marker date="1478802060345" expanded="true" signature="1512:1620" placeholder="CREATE TABLE..IF..." />
+                <marker date="1478802060345" expanded="true" signature="1839:1880" placeholder="INSERT INTO ..." />
+                <marker date="1478802060345" expanded="true" signature="4574:4591" placeholder="SELECT * FRO..Dog..." />
+                <marker date="1478802060345" expanded="true" signature="6278:6324" placeholder="SELECT * FRO..DOG..." />
+                <marker date="1478802060345" expanded="true" signature="7652:7697" placeholder="SELECT name ..dog..." />
+                <marker date="1478802060345" expanded="true" signature="8104:8155" placeholder="SELECT name,..dog..." />
+                <marker date="1478802060345" expanded="true" signature="8672:8704" placeholder="SELECT * FRO..Dog..." />
+                <marker date="1478802060345" expanded="true" signature="9710:9748" placeholder="SELECT * FRO..Dog..." />
+                <marker date="1478802060345" expanded="true" signature="11016:11060" placeholder="UPDATE Dog S..." />
+                <marker date="1478802060345" expanded="true" signature="11228:11245" placeholder="SELECT * FRO..Dog..." />
+                <marker date="1478802060345" expanded="true" signature="12218:12253" placeholder="SELECT AVG(a..dog..." />
+                <marker date="1478802060345" expanded="true" signature="12962:13022" placeholder="SELECT AVG(a..dog..." />
+                <marker date="1478802060345" expanded="true" signature="13448:13501" placeholder="SELECT MAX(a..dog..." />
+                <marker date="1478802060345" expanded="true" signature="14023:14059" placeholder="SELECT COUNT..dog..." />
+                <marker date="1478802060345" expanded="true" signature="14520:14556" placeholder="SELECT SUM(w..dog..." />
+                <marker date="1478802060345" expanded="true" signature="15728:15742" placeholder="DROP TABLE d..." />
               </folding>
             </state>
           </provider>
@@ -74,6 +70,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -83,7 +84,7 @@
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
@@ -95,11 +96,14 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="342" />
-    <option name="y" value="51" />
-    <option name="width" value="1049" />
-    <option name="height" value="843" />
+    <option name="x" value="372" />
+    <option name="y" value="49" />
+    <option name="width" value="891" />
+    <option name="height" value="696" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -126,35 +130,26 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DogSQL" />
+              <option name="myItemId" value="dogsql" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DogSQL" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DogSQL" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RunManager" selected="Application.DogDB">
     <configuration default="false" name="DogDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -183,124 +178,91 @@
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="depsClasspath" value="false" />
-      <setting name="passParentEnv" value="true" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <setting name="launchBrowser" value="true" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
-      <setting name="environment" value="" />
-      <setting name="specsToExecute" value="" />
-      <setting name="tags" value="" />
-      <setting name="parallelNodes" value="" />
-      <setting name="execInParallel" value="false" />
-      <setting name="programParameters" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="moduleName" value="" />
-      <envMap />
-      <setting name="rowsRange" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
+      <module />
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <pass-parent-envs>true</pass-parent-envs>
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
+    <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
+      <module name="" />
       <envs />
-      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
@@ -338,33 +300,18 @@
       <option name="usbDebugPort" value="7936" />
       <method />
     </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" web_path="">
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
@@ -383,104 +330,100 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
       </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
+      <envs />
+      <patterns />
       <method />
     </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
       <method />
     </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
     <list size="1">
@@ -502,6 +445,7 @@
       <workItem from="1475710030978" duration="716000" />
       <workItem from="1478734124856" duration="2863000" />
       <workItem from="1478789563589" duration="259000" />
+      <workItem from="1478801890972" duration="203000" />
     </task>
     <task id="LOCAL-00001" summary="Refactored giant try-catch into individual">
       <created>1478736312135</created>
@@ -513,41 +457,41 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3838000" />
+    <option name="totallyTimeSpent" value="4041000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="342" y="51" width="1049" height="843" extended-state="0" />
-    <editor active="true" />
+    <frame x="372" y="49" width="891" height="696" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37150466" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09930486" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1859155" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.6496599" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36995155" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12274368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -562,9 +506,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
-    </option>
     <MESSAGE value="Refactored giant try-catch into individual" />
     <option name="LAST_COMMIT_MESSAGE" value="Refactored giant try-catch into individual" />
   </component>
@@ -579,7 +520,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="555">
+        <state vertical-scroll-proportion="0.0">
           <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
           <folding />
         </state>
@@ -587,33 +528,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/DogDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5715">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1478789821000" expanded="true" signature="1421:1537" placeholder="CREATE TABLE..IF..." />
-            <marker date="1478789821000" expanded="true" signature="1756:1797" placeholder="INSERT INTO ..." />
-            <marker date="1478789821000" expanded="true" signature="4491:4508" placeholder="SELECT * FRO..Dog..." />
-            <marker date="1478789821000" expanded="true" signature="6195:6241" placeholder="SELECT * FRO..DOG..." />
-            <marker date="1478789821000" expanded="true" signature="7569:7614" placeholder="SELECT name ..dog..." />
-            <marker date="1478789821000" expanded="true" signature="8021:8072" placeholder="SELECT name,..dog..." />
-            <marker date="1478789821000" expanded="true" signature="8589:8621" placeholder="SELECT * FRO..Dog..." />
-            <marker date="1478789821000" expanded="true" signature="9627:9665" placeholder="SELECT * FRO..Dog..." />
-            <marker date="1478789821000" expanded="true" signature="10933:10977" placeholder="UPDATE Dog S..." />
-            <marker date="1478789821000" expanded="true" signature="11145:11162" placeholder="SELECT * FRO..Dog..." />
-            <marker date="1478789821000" expanded="true" signature="12135:12170" placeholder="SELECT AVG(a..dog..." />
-            <marker date="1478789821000" expanded="true" signature="12879:12939" placeholder="SELECT AVG(a..dog..." />
-            <marker date="1478789821000" expanded="true" signature="13365:13418" placeholder="SELECT MAX(a..dog..." />
-            <marker date="1478789821000" expanded="true" signature="13940:13976" placeholder="SELECT COUNT..dog..." />
-            <marker date="1478789821000" expanded="true" signature="14437:14473" placeholder="SELECT SUM(w..dog..." />
-            <marker date="1478789821000" expanded="true" signature="15645:15659" placeholder="DROP TABLE d..." />
+            <marker date="1478802060345" expanded="true" signature="1512:1620" placeholder="CREATE TABLE..IF..." />
+            <marker date="1478802060345" expanded="true" signature="1839:1880" placeholder="INSERT INTO ..." />
+            <marker date="1478802060345" expanded="true" signature="4574:4591" placeholder="SELECT * FRO..Dog..." />
+            <marker date="1478802060345" expanded="true" signature="6278:6324" placeholder="SELECT * FRO..DOG..." />
+            <marker date="1478802060345" expanded="true" signature="7652:7697" placeholder="SELECT name ..dog..." />
+            <marker date="1478802060345" expanded="true" signature="8104:8155" placeholder="SELECT name,..dog..." />
+            <marker date="1478802060345" expanded="true" signature="8672:8704" placeholder="SELECT * FRO..Dog..." />
+            <marker date="1478802060345" expanded="true" signature="9710:9748" placeholder="SELECT * FRO..Dog..." />
+            <marker date="1478802060345" expanded="true" signature="11016:11060" placeholder="UPDATE Dog S..." />
+            <marker date="1478802060345" expanded="true" signature="11228:11245" placeholder="SELECT * FRO..Dog..." />
+            <marker date="1478802060345" expanded="true" signature="12218:12253" placeholder="SELECT AVG(a..dog..." />
+            <marker date="1478802060345" expanded="true" signature="12962:13022" placeholder="SELECT AVG(a..dog..." />
+            <marker date="1478802060345" expanded="true" signature="13448:13501" placeholder="SELECT MAX(a..dog..." />
+            <marker date="1478802060345" expanded="true" signature="14023:14059" placeholder="SELECT COUNT..dog..." />
+            <marker date="1478802060345" expanded="true" signature="14520:14556" placeholder="SELECT SUM(w..dog..." />
+            <marker date="1478802060345" expanded="true" signature="15728:15742" placeholder="DROP TABLE d..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
           <folding />
         </state>
@@ -621,33 +562,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/DogDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1478789821000" expanded="true" signature="1421:1537" placeholder="CREATE TABLE..IF..." />
-            <marker date="1478789821000" expanded="true" signature="1756:1797" placeholder="INSERT INTO ..." />
-            <marker date="1478789821000" expanded="true" signature="4491:4508" placeholder="SELECT * FRO..Dog..." />
-            <marker date="1478789821000" expanded="true" signature="6195:6241" placeholder="SELECT * FRO..DOG..." />
-            <marker date="1478789821000" expanded="true" signature="7569:7614" placeholder="SELECT name ..dog..." />
-            <marker date="1478789821000" expanded="true" signature="8021:8072" placeholder="SELECT name,..dog..." />
-            <marker date="1478789821000" expanded="true" signature="8589:8621" placeholder="SELECT * FRO..Dog..." />
-            <marker date="1478789821000" expanded="true" signature="9627:9665" placeholder="SELECT * FRO..Dog..." />
-            <marker date="1478789821000" expanded="true" signature="10933:10977" placeholder="UPDATE Dog S..." />
-            <marker date="1478789821000" expanded="true" signature="11145:11162" placeholder="SELECT * FRO..Dog..." />
-            <marker date="1478789821000" expanded="true" signature="12135:12170" placeholder="SELECT AVG(a..dog..." />
-            <marker date="1478789821000" expanded="true" signature="12879:12939" placeholder="SELECT AVG(a..dog..." />
-            <marker date="1478789821000" expanded="true" signature="13365:13418" placeholder="SELECT MAX(a..dog..." />
-            <marker date="1478789821000" expanded="true" signature="13940:13976" placeholder="SELECT COUNT..dog..." />
-            <marker date="1478789821000" expanded="true" signature="14437:14473" placeholder="SELECT SUM(w..dog..." />
-            <marker date="1478789821000" expanded="true" signature="15645:15659" placeholder="DROP TABLE d..." />
+            <marker date="1478802060345" expanded="true" signature="1512:1620" placeholder="CREATE TABLE..IF..." />
+            <marker date="1478802060345" expanded="true" signature="1839:1880" placeholder="INSERT INTO ..." />
+            <marker date="1478802060345" expanded="true" signature="4574:4591" placeholder="SELECT * FRO..Dog..." />
+            <marker date="1478802060345" expanded="true" signature="6278:6324" placeholder="SELECT * FRO..DOG..." />
+            <marker date="1478802060345" expanded="true" signature="7652:7697" placeholder="SELECT name ..dog..." />
+            <marker date="1478802060345" expanded="true" signature="8104:8155" placeholder="SELECT name,..dog..." />
+            <marker date="1478802060345" expanded="true" signature="8672:8704" placeholder="SELECT * FRO..Dog..." />
+            <marker date="1478802060345" expanded="true" signature="9710:9748" placeholder="SELECT * FRO..Dog..." />
+            <marker date="1478802060345" expanded="true" signature="11016:11060" placeholder="UPDATE Dog S..." />
+            <marker date="1478802060345" expanded="true" signature="11228:11245" placeholder="SELECT * FRO..Dog..." />
+            <marker date="1478802060345" expanded="true" signature="12218:12253" placeholder="SELECT AVG(a..dog..." />
+            <marker date="1478802060345" expanded="true" signature="12962:13022" placeholder="SELECT AVG(a..dog..." />
+            <marker date="1478802060345" expanded="true" signature="13448:13501" placeholder="SELECT MAX(a..dog..." />
+            <marker date="1478802060345" expanded="true" signature="14023:14059" placeholder="SELECT COUNT..dog..." />
+            <marker date="1478802060345" expanded="true" signature="14520:14556" placeholder="SELECT SUM(w..dog..." />
+            <marker date="1478802060345" expanded="true" signature="15728:15742" placeholder="DROP TABLE d..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/DogDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1478802060345" expanded="true" signature="1512:1620" placeholder="CREATE TABLE..IF..." />
+            <marker date="1478802060345" expanded="true" signature="1839:1880" placeholder="INSERT INTO ..." />
+            <marker date="1478802060345" expanded="true" signature="4574:4591" placeholder="SELECT * FRO..Dog..." />
+            <marker date="1478802060345" expanded="true" signature="6278:6324" placeholder="SELECT * FRO..DOG..." />
+            <marker date="1478802060345" expanded="true" signature="7652:7697" placeholder="SELECT name ..dog..." />
+            <marker date="1478802060345" expanded="true" signature="8104:8155" placeholder="SELECT name,..dog..." />
+            <marker date="1478802060345" expanded="true" signature="8672:8704" placeholder="SELECT * FRO..Dog..." />
+            <marker date="1478802060345" expanded="true" signature="9710:9748" placeholder="SELECT * FRO..Dog..." />
+            <marker date="1478802060345" expanded="true" signature="11016:11060" placeholder="UPDATE Dog S..." />
+            <marker date="1478802060345" expanded="true" signature="11228:11245" placeholder="SELECT * FRO..Dog..." />
+            <marker date="1478802060345" expanded="true" signature="12218:12253" placeholder="SELECT AVG(a..dog..." />
+            <marker date="1478802060345" expanded="true" signature="12962:13022" placeholder="SELECT AVG(a..dog..." />
+            <marker date="1478802060345" expanded="true" signature="13448:13501" placeholder="SELECT MAX(a..dog..." />
+            <marker date="1478802060345" expanded="true" signature="14023:14059" placeholder="SELECT COUNT..dog..." />
+            <marker date="1478802060345" expanded="true" signature="14520:14556" placeholder="SELECT SUM(w..dog..." />
+            <marker date="1478802060345" expanded="true" signature="15728:15742" placeholder="DROP TABLE d..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
           <folding />
         </state>
@@ -655,34 +630,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="545">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/DogDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3716216" vertical-offset="435" max-vertical-offset="5835">
-          <caret line="40" column="153" selection-start-line="40" selection-start-column="153" selection-end-line="40" selection-end-column="153" />
+        <state vertical-scroll-proportion="0.57954544">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1478789821000" expanded="true" signature="1421:1537" placeholder="CREATE TABLE..IF..." />
-            <marker date="1478789821000" expanded="true" signature="1756:1797" placeholder="INSERT INTO ..." />
-            <marker date="1478789821000" expanded="true" signature="4491:4508" placeholder="SELECT * FRO..Dog..." />
-            <marker date="1478789821000" expanded="true" signature="6195:6241" placeholder="SELECT * FRO..DOG..." />
-            <marker date="1478789821000" expanded="true" signature="7569:7614" placeholder="SELECT name ..dog..." />
-            <marker date="1478789821000" expanded="true" signature="8021:8072" placeholder="SELECT name,..dog..." />
-            <marker date="1478789821000" expanded="true" signature="8589:8621" placeholder="SELECT * FRO..Dog..." />
-            <marker date="1478789821000" expanded="true" signature="9627:9665" placeholder="SELECT * FRO..Dog..." />
-            <marker date="1478789821000" expanded="true" signature="10933:10977" placeholder="UPDATE Dog S..." />
-            <marker date="1478789821000" expanded="true" signature="11145:11162" placeholder="SELECT * FRO..Dog..." />
-            <marker date="1478789821000" expanded="true" signature="12135:12170" placeholder="SELECT AVG(a..dog..." />
-            <marker date="1478789821000" expanded="true" signature="12879:12939" placeholder="SELECT AVG(a..dog..." />
-            <marker date="1478789821000" expanded="true" signature="13365:13418" placeholder="SELECT MAX(a..dog..." />
-            <marker date="1478789821000" expanded="true" signature="13940:13976" placeholder="SELECT COUNT..dog..." />
-            <marker date="1478789821000" expanded="true" signature="14437:14473" placeholder="SELECT SUM(w..dog..." />
-            <marker date="1478789821000" expanded="true" signature="15645:15659" placeholder="DROP TABLE d..." />
+            <marker date="1478802060345" expanded="true" signature="1512:1620" placeholder="CREATE TABLE..IF..." />
+            <marker date="1478802060345" expanded="true" signature="1839:1880" placeholder="INSERT INTO ..." />
+            <marker date="1478802060345" expanded="true" signature="4574:4591" placeholder="SELECT * FRO..Dog..." />
+            <marker date="1478802060345" expanded="true" signature="6278:6324" placeholder="SELECT * FRO..DOG..." />
+            <marker date="1478802060345" expanded="true" signature="7652:7697" placeholder="SELECT name ..dog..." />
+            <marker date="1478802060345" expanded="true" signature="8104:8155" placeholder="SELECT name,..dog..." />
+            <marker date="1478802060345" expanded="true" signature="8672:8704" placeholder="SELECT * FRO..Dog..." />
+            <marker date="1478802060345" expanded="true" signature="9710:9748" placeholder="SELECT * FRO..Dog..." />
+            <marker date="1478802060345" expanded="true" signature="11016:11060" placeholder="UPDATE Dog S..." />
+            <marker date="1478802060345" expanded="true" signature="11228:11245" placeholder="SELECT * FRO..Dog..." />
+            <marker date="1478802060345" expanded="true" signature="12218:12253" placeholder="SELECT AVG(a..dog..." />
+            <marker date="1478802060345" expanded="true" signature="12962:13022" placeholder="SELECT AVG(a..dog..." />
+            <marker date="1478802060345" expanded="true" signature="13448:13501" placeholder="SELECT MAX(a..dog..." />
+            <marker date="1478802060345" expanded="true" signature="14023:14059" placeholder="SELECT COUNT..dog..." />
+            <marker date="1478802060345" expanded="true" signature="14520:14556" placeholder="SELECT SUM(w..dog..." />
+            <marker date="1478802060345" expanded="true" signature="15728:15742" placeholder="DROP TABLE d..." />
           </folding>
         </state>
       </provider>
