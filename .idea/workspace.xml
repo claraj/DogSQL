@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29d4f778-0356-4cc2-a724-400fe46f564a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/company/DogDB.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/company/DogDB.class" afterPath="$PROJECT_DIR$/target/classes/com/company/DogDB.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/company/DogDB.java" afterPath="$PROJECT_DIR$/src/main/java/com/company/DogDB.java" />
     </list>
@@ -41,25 +40,25 @@
       <file leaf-file-name="DogDB.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/DogDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2941">
-              <caret line="175" column="16" selection-start-line="175" selection-start-column="16" selection-end-line="175" selection-end-column="16" />
+            <state relative-caret-position="-408">
+              <caret line="263" column="57" selection-start-line="263" selection-start-column="12" selection-end-line="263" selection-end-column="57" />
               <folding>
-                <marker date="1478736245727" expanded="true" signature="1447:1555" ph="CREATE TABLE... IF" />
-                <marker date="1478736245727" expanded="true" signature="1774:1815" ph="INSERT INTO Dog... " />
-                <marker date="1478736245727" expanded="true" signature="4509:4526" ph="SELECT * FRO... Dog" />
-                <marker date="1478736245727" expanded="true" signature="6272:6318" ph="SELECT * FRO... DOG" />
-                <marker date="1478736245727" expanded="true" signature="7678:7723" ph="SELECT name dog" />
-                <marker date="1478736245727" expanded="true" signature="8130:8181" ph="SELECT name,... dog" />
-                <marker date="1478736245727" expanded="true" signature="8698:8730" ph="SELECT * FRO... Dog" />
-                <marker date="1478736245727" expanded="true" signature="9736:9774" ph="SELECT * FRO... Dog" />
-                <marker date="1478736245727" expanded="true" signature="10942:10986" ph="UPDATE Dog S... " />
-                <marker date="1478736245727" expanded="true" signature="11154:11171" ph="SELECT * FRO... Dog" />
-                <marker date="1478736245727" expanded="true" signature="12144:12179" ph="SELECT AVG(a... dog" />
-                <marker date="1478736245727" expanded="true" signature="12888:12948" ph="SELECT AVG(a... dog" />
-                <marker date="1478736245727" expanded="true" signature="13374:13427" ph="SELECT MAX(a... dog" />
-                <marker date="1478736245727" expanded="true" signature="13949:13985" ph="SELECT COUNT... dog" />
-                <marker date="1478736245727" expanded="true" signature="14446:14482" ph="SELECT SUM(w... dog" />
-                <marker date="1478736245727" expanded="true" signature="15340:15354" ph="DROP TABLE d... " />
+                <marker date="1478737482816" expanded="true" signature="1442:1550" ph="CREATE TABLE... IF" />
+                <marker date="1478737482816" expanded="true" signature="1769:1810" ph="INSERT INTO Dog... " />
+                <marker date="1478737482816" expanded="true" signature="4504:4521" ph="SELECT * FRO... Dog" />
+                <marker date="1478737482816" expanded="true" signature="6208:6254" ph="SELECT * FRO... DOG" />
+                <marker date="1478737482816" expanded="true" signature="7582:7627" ph="SELECT name dog" />
+                <marker date="1478737482816" expanded="true" signature="8034:8085" ph="SELECT name,... dog" />
+                <marker date="1478737482816" expanded="true" signature="8602:8634" ph="SELECT * FRO... Dog" />
+                <marker date="1478737482816" expanded="true" signature="9640:9678" ph="SELECT * FRO... Dog" />
+                <marker date="1478737482816" expanded="true" signature="10846:10890" ph="UPDATE Dog S... " />
+                <marker date="1478737482816" expanded="true" signature="11058:11075" ph="SELECT * FRO... Dog" />
+                <marker date="1478737482816" expanded="true" signature="12048:12083" ph="SELECT AVG(a... dog" />
+                <marker date="1478737482816" expanded="true" signature="12792:12852" ph="SELECT AVG(a... dog" />
+                <marker date="1478737482816" expanded="true" signature="13278:13331" ph="SELECT MAX(a... dog" />
+                <marker date="1478737482816" expanded="true" signature="13853:13889" ph="SELECT COUNT... dog" />
+                <marker date="1478737482816" expanded="true" signature="14350:14386" ph="SELECT SUM(w... dog" />
+                <marker date="1478737482816" expanded="true" signature="15244:15258" ph="DROP TABLE d... " />
               </folding>
             </state>
           </provider>
@@ -99,7 +98,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="10" />
     <option name="y" value="9" />
-    <option name="width" value="1176" />
+    <option name="width" value="937" />
     <option name="height" value="843" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -651,16 +650,24 @@
       <option name="presentableId" value="Default" />
       <updated>1475710029871</updated>
       <workItem from="1475710030978" duration="716000" />
-      <workItem from="1478734124856" duration="2160000" />
+      <workItem from="1478734124856" duration="2863000" />
     </task>
+    <task id="LOCAL-00001" summary="Refactored giant try-catch into individual">
+      <created>1478736312135</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1478736312135</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2876000" />
+    <option name="totallyTimeSpent" value="3579000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="9" width="1176" height="843" extended-state="0" />
-    <editor active="false" />
+    <frame x="10" y="9" width="937" height="843" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -669,7 +676,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1859155" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1859155" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52112675" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -700,6 +707,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refactored giant try-catch into individual" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored giant try-catch into individual" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -722,22 +733,22 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1478736245727" expanded="true" signature="1447:1555" ph="CREATE TABLE... IF" />
-            <marker date="1478736245727" expanded="true" signature="1774:1815" ph="INSERT INTO Dog... " />
-            <marker date="1478736245727" expanded="true" signature="4509:4526" ph="SELECT * FRO... Dog" />
-            <marker date="1478736245727" expanded="true" signature="6272:6318" ph="SELECT * FRO... DOG" />
-            <marker date="1478736245727" expanded="true" signature="7678:7723" ph="SELECT name dog" />
-            <marker date="1478736245727" expanded="true" signature="8130:8181" ph="SELECT name,... dog" />
-            <marker date="1478736245727" expanded="true" signature="8698:8730" ph="SELECT * FRO... Dog" />
-            <marker date="1478736245727" expanded="true" signature="9736:9774" ph="SELECT * FRO... Dog" />
-            <marker date="1478736245727" expanded="true" signature="10942:10986" ph="UPDATE Dog S... " />
-            <marker date="1478736245727" expanded="true" signature="11154:11171" ph="SELECT * FRO... Dog" />
-            <marker date="1478736245727" expanded="true" signature="12144:12179" ph="SELECT AVG(a... dog" />
-            <marker date="1478736245727" expanded="true" signature="12888:12948" ph="SELECT AVG(a... dog" />
-            <marker date="1478736245727" expanded="true" signature="13374:13427" ph="SELECT MAX(a... dog" />
-            <marker date="1478736245727" expanded="true" signature="13949:13985" ph="SELECT COUNT... dog" />
-            <marker date="1478736245727" expanded="true" signature="14446:14482" ph="SELECT SUM(w... dog" />
-            <marker date="1478736245727" expanded="true" signature="15340:15354" ph="DROP TABLE d... " />
+            <marker date="1478737482816" expanded="true" signature="1442:1550" ph="CREATE TABLE... IF" />
+            <marker date="1478737482816" expanded="true" signature="1769:1810" ph="INSERT INTO Dog... " />
+            <marker date="1478737482816" expanded="true" signature="4504:4521" ph="SELECT * FRO... Dog" />
+            <marker date="1478737482816" expanded="true" signature="6208:6254" ph="SELECT * FRO... DOG" />
+            <marker date="1478737482816" expanded="true" signature="7582:7627" ph="SELECT name dog" />
+            <marker date="1478737482816" expanded="true" signature="8034:8085" ph="SELECT name,... dog" />
+            <marker date="1478737482816" expanded="true" signature="8602:8634" ph="SELECT * FRO... Dog" />
+            <marker date="1478737482816" expanded="true" signature="9640:9678" ph="SELECT * FRO... Dog" />
+            <marker date="1478737482816" expanded="true" signature="10846:10890" ph="UPDATE Dog S... " />
+            <marker date="1478737482816" expanded="true" signature="11058:11075" ph="SELECT * FRO... Dog" />
+            <marker date="1478737482816" expanded="true" signature="12048:12083" ph="SELECT AVG(a... dog" />
+            <marker date="1478737482816" expanded="true" signature="12792:12852" ph="SELECT AVG(a... dog" />
+            <marker date="1478737482816" expanded="true" signature="13278:13331" ph="SELECT MAX(a... dog" />
+            <marker date="1478737482816" expanded="true" signature="13853:13889" ph="SELECT COUNT... dog" />
+            <marker date="1478737482816" expanded="true" signature="14350:14386" ph="SELECT SUM(w... dog" />
+            <marker date="1478737482816" expanded="true" signature="15244:15258" ph="DROP TABLE d... " />
           </folding>
         </state>
       </provider>
@@ -752,25 +763,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/DogDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2941">
-          <caret line="175" column="16" selection-start-line="175" selection-start-column="16" selection-end-line="175" selection-end-column="16" />
+        <state relative-caret-position="-408">
+          <caret line="263" column="57" selection-start-line="263" selection-start-column="12" selection-end-line="263" selection-end-column="57" />
           <folding>
-            <marker date="1478736245727" expanded="true" signature="1447:1555" ph="CREATE TABLE... IF" />
-            <marker date="1478736245727" expanded="true" signature="1774:1815" ph="INSERT INTO Dog... " />
-            <marker date="1478736245727" expanded="true" signature="4509:4526" ph="SELECT * FRO... Dog" />
-            <marker date="1478736245727" expanded="true" signature="6272:6318" ph="SELECT * FRO... DOG" />
-            <marker date="1478736245727" expanded="true" signature="7678:7723" ph="SELECT name dog" />
-            <marker date="1478736245727" expanded="true" signature="8130:8181" ph="SELECT name,... dog" />
-            <marker date="1478736245727" expanded="true" signature="8698:8730" ph="SELECT * FRO... Dog" />
-            <marker date="1478736245727" expanded="true" signature="9736:9774" ph="SELECT * FRO... Dog" />
-            <marker date="1478736245727" expanded="true" signature="10942:10986" ph="UPDATE Dog S... " />
-            <marker date="1478736245727" expanded="true" signature="11154:11171" ph="SELECT * FRO... Dog" />
-            <marker date="1478736245727" expanded="true" signature="12144:12179" ph="SELECT AVG(a... dog" />
-            <marker date="1478736245727" expanded="true" signature="12888:12948" ph="SELECT AVG(a... dog" />
-            <marker date="1478736245727" expanded="true" signature="13374:13427" ph="SELECT MAX(a... dog" />
-            <marker date="1478736245727" expanded="true" signature="13949:13985" ph="SELECT COUNT... dog" />
-            <marker date="1478736245727" expanded="true" signature="14446:14482" ph="SELECT SUM(w... dog" />
-            <marker date="1478736245727" expanded="true" signature="15340:15354" ph="DROP TABLE d... " />
+            <marker date="1478737482816" expanded="true" signature="1442:1550" ph="CREATE TABLE... IF" />
+            <marker date="1478737482816" expanded="true" signature="1769:1810" ph="INSERT INTO Dog... " />
+            <marker date="1478737482816" expanded="true" signature="4504:4521" ph="SELECT * FRO... Dog" />
+            <marker date="1478737482816" expanded="true" signature="6208:6254" ph="SELECT * FRO... DOG" />
+            <marker date="1478737482816" expanded="true" signature="7582:7627" ph="SELECT name dog" />
+            <marker date="1478737482816" expanded="true" signature="8034:8085" ph="SELECT name,... dog" />
+            <marker date="1478737482816" expanded="true" signature="8602:8634" ph="SELECT * FRO... Dog" />
+            <marker date="1478737482816" expanded="true" signature="9640:9678" ph="SELECT * FRO... Dog" />
+            <marker date="1478737482816" expanded="true" signature="10846:10890" ph="UPDATE Dog S... " />
+            <marker date="1478737482816" expanded="true" signature="11058:11075" ph="SELECT * FRO... Dog" />
+            <marker date="1478737482816" expanded="true" signature="12048:12083" ph="SELECT AVG(a... dog" />
+            <marker date="1478737482816" expanded="true" signature="12792:12852" ph="SELECT AVG(a... dog" />
+            <marker date="1478737482816" expanded="true" signature="13278:13331" ph="SELECT MAX(a... dog" />
+            <marker date="1478737482816" expanded="true" signature="13853:13889" ph="SELECT COUNT... dog" />
+            <marker date="1478737482816" expanded="true" signature="14350:14386" ph="SELECT SUM(w... dog" />
+            <marker date="1478737482816" expanded="true" signature="15244:15258" ph="DROP TABLE d... " />
           </folding>
         </state>
       </provider>

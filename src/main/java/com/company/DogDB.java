@@ -16,7 +16,6 @@ public class DogDB {
     static final String PASSWORD = "clara";   //TODO replace with your password
 
 
-    
     public static void main(String[] args) {
 
         System.out.println("Veterinarian Database Program");
@@ -141,8 +140,7 @@ public class DogDB {
 
         /* query the database for a dog's name */
 
-        try (Connection conn = DriverManager.getConnection(DB_CONNECTION_URL, USER, PASSWORD);
-             Statement statement = conn.createStatement()) {
+        try (Connection conn = DriverManager.getConnection(DB_CONNECTION_URL, USER, PASSWORD)) {
 
             Scanner scan = new Scanner(System.in);
 
@@ -176,8 +174,6 @@ public class DogDB {
                 rs.close();
             }
 
-
-            statement.close();
             conn.close();
 
         } catch (SQLException sqle) {
