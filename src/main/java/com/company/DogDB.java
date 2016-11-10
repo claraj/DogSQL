@@ -5,7 +5,7 @@ import java.sql.Date;
 import java.util.*;
 
 
-//Added a date of vaccination, more queries, and identity column.
+//Added a date of vaccination, more queries.
 
 
 public class DogDB {
@@ -203,9 +203,9 @@ public class DogDB {
             System.out.println();
             System.out.println("Names, weights, and ages of dogs who weigh over 20 pounds");
             String over20lbs = "SELECT name, weight, age FROM dog WHERE weight > 20";
-            ResultSet over20rs = statement.executeQuery(over20lbs);
-            while (over20rs.next()) {
-                System.out.println(over20rs.getString("name") + " is " + over20rs.getInt("age") + " years old and weighs " + over20rs.getDouble("weight"));
+            ResultSet rsOver20 = statement.executeQuery(over20lbs);
+            while (rsOver20.next()) {
+                System.out.println(rsOver20.getString("name") + " is " + rsOver20.getInt("age") + " years old and weighs " + rsOver20.getDouble("weight"));
             }
 
 
@@ -233,17 +233,20 @@ public class DogDB {
             System.out.println("Names of dogs who are not called 'Blue'");
             //Can use the SQL UPPER function here if you need to be case insensitive.
             String notBlue = "SELECT * FROM Dog WHERE name != 'Blue'";
-            String alternativeNotEquals = "SELECT * FROM Dog WHERE name <> 'Blue'";  //either of these works
-            ResultSet notBluers = statement.executeQuery(notBlue);
-            while (notBluers.next()) {
-                String name = notBluers.getString("name");
+
+            //You can also use <> instead of != to test if something is not equal, like this.
+            String alternativeNotEqualsBlue = "SELECT * FROM Dog WHERE name <> 'Blue'";  //either of these works
+
+            ResultSet rsNotBlue = statement.executeQuery(notBlue);
+            while (rsNotBlue.next()) {
+                String name = rsNotBlue.getString("name");
                 System.out.println("This dog is not called Blue, it is called :  " + name) ;
             }
 
             //Close ALL the things
             rsNotVax.close();
-            over20rs.close();
-            notBluers.close();
+            rsOver20.close();
+            rsNotBlue.close();
             rsPuppies.close();
 
             psFindPuppies.close();
@@ -345,6 +348,9 @@ public class DogDB {
             System.out.println("Total weight of all dogs = " + totalWeight);
             rsTotal.close();
 
+            //Each ResultSet closed as soon as code is done with it
+            //A statement can be used to make many ResultSets, but creating a new ResultSet will close the previous one
+            //If you need two ResultSets in use at once, you need to create two statements, and create a ResultSet from each.
             statement.close();
             conn.close();
 
