@@ -48,7 +48,7 @@ public class DogDB {
 
             /* Add one row of test data, using a prepared statement */
 
-            String prepStatInsert = "INSERT INTO Dog VALUES ( ? , ?, ? , ?, ?)";
+            String prepStatInsert = "INSERT INTO Dog VALUES ( ?, ?, ?, ?, ? )";
             PreparedStatement psInsert = conn.prepareStatement(prepStatInsert);
 
             psInsert.setString(1, "Sam");
